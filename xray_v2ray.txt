@@ -1,1 +1,1 @@
-vless://3b59b796-7f67-4874-9d04-b7057b2dc044@cdn.speedtest.4913.haami.click:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=6bb85179e30d4fc2#%DB%B5
+vless://3b59b796-7f67-4874-9d04-b7057b2dc044@cdn.speedtest.4913.haami.click:443?security=reality&encryption=none&pbk=GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=6bb85179e30d4fc2#5
