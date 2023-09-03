@@ -1,6 +1,8 @@
 vmess://eyJhZGQiOiIxMzYuMjQ0LjY5LjQyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQ4MDczZGE2LTM4ZjItNDYyYi1iNDBiLWI0MDA3MjQ0OGZlZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjI5MDY3IiwicHMiOiIxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 trojan://42ks98CgMd@mahsaa69i.mahsaaminivpn.com:46617?security=tls&headerType=none&type=tcp#2
 vmess://eyJhZGQiOiIxMDQuMzEuMTYuMjMyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtMjQzLm1hcml2YW4uYnV6eiIsImlkIjoiNmIzN2M3OWUtMWQ5Ny00Yzk3LTg0YzEtZTM4OTllNjI1OTQyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3IxNjU5MzQzODA0IiwicG9ydCI6IjgwIiwicHMiOiIzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVaHhsTG01dHpHaXF2WGNh@series-a2-mec.samanehha.co:443#SS_UAE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNFExTHVXWDVBekxibGd3@series-a2-me.samanehha.co:443#SS_bahrain
 vless://2d7d6140-3310-4d13-8f5c-42f6b381e26d@198.41.217.193:80?path=%2Fv1659343804&security=none&encryption=none&host=m243.marivan.buzz&type=ws#4
 trojan://q7uJo7v9O2@mahsa32.mahsaaminivpn.com:41667?security=tls&headerType=none&type=tcp#5
 vless://16c1ad39-0f35-453f-960b-5720009fe99e@104.31.16.232:80?path=%2Fv2108987888&security=none&encryption=none&host=m241.marivan.buzz&type=ws#6
