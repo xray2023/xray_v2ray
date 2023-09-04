@@ -1,4 +1,5 @@
 vless://89cafc5a-a254-49fe-942c-a968cc10c317@49.13.5.51:32619?mode=gun&security=reality&encryption=none&pbk=HNHLIGa1P86LkRJFjoyv1jyZCOYp4q_EuVVp7TIM2kQ&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=fdb43cdb#Germany
+vless://f3315d9e-6a19-4d6a-84a5-130fd4cc8f88@45.15.157.1:31807?mode=gun&security=reality&encryption=none&pbk=qrzGOH3nh3sdl3PWXsP14IJfa4JuGqry4PzbOMY593w&fp=firefox&spx=%2Fseyyedmt&type=grpc&serviceName=&sni=eset.com&sid=8b54625d#France
 vless://336b8f46-9333-4269-9d98-9c4d78fa8c73@95.216.142.172:30654?mode=gun&security=reality&encryption=none&pbk=2gCC7nTck8OS7Hsy1CUARNEtXvoIIwHLdRCXmoGoyTY&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=eset.com&sid=5aa135ba#Finland+2
 vless://76fcb107-f2bf-4faf-b0f5-78252bfc2e75@49.13.5.51:32594?mode=gun&security=reality&encryption=none&pbk=Pk1zDT3rB-KmtctOao78VqDL0X6PzFKdD8TC3cuMU2c&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=e2c5d72b#Germany-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeDRVUHphdDREM2x3YXFZ@series-a2-mec.samanehha.co:443#SS_UAE
