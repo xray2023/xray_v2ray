@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZeDRVUHphdDREM2x3YXFZ@series-a2-mec.samanehha.co:443#SS_UAE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxczZSU0V3MDhEZnZhcG12@series-a2-me.samanehha.co:443#SS_Bahrain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuejdQS1kxbmFpQ1ozMERX@series-a2.samanehha.co:443#ss_London
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYbk9iS2tQSzZLanJhMlFJ@series-a2-me.samanehha.co:443#SS_Bahrain
 vless://dba64c77-5c27-42a8-b312-b277876b3e65@49.13.5.51:35569?mode=gun&security=reality&encryption=none&pbk=ZBTsYwzwrWjVU48z9NhAhpumjYfmoNm-_DoRlEBVW3A&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=5da6fe39#Germany
 vless://55a5aa67-b5e0-4f81-a303-e6d960f5b53b@49.13.5.51:35568?mode=gun&security=reality&encryption=none&pbk=A6Z8VMIPQb1k8wFUxEUsURCIGnDzUyNwvqRvhBFfuV0&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=48fa9e14#Germany+1
 vless://4420da44-9683-47ba-8b02-0b4352859de6@45.15.157.1:34773?mode=gun&security=reality&encryption=none&pbk=9ePSq3RE-I6-COoZKgT1uHry8vTkbwLSuyUIa275fUk&fp=firefox&spx=%2Fseyyedmt&type=grpc&serviceName=&sni=eset.com&sid=c6873c91#France-1
