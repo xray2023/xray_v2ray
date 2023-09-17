@@ -1,6 +1,6 @@
-vless://15d84644-5b97-4358-bcd7-1345b2d8fed4@95.216.142.172:40402?mode=gun&security=reality&encryption=none&pbk=q3EkuyoV9AC-xQdDhydB-S2AeQ9oLJHgXvm9Nez2FFo&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=eset.com&sid=4f43c349#1
-vless://9071618f-88e4-414b-8271-26584983c0d8@95.216.142.172:40412?mode=gun&security=reality&encryption=none&pbk=3FqNeA4UO8jxrtLJ-i2d5sjnCUv-XULBqVoMp1Q2-C0&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=eset.com&sid=1252b8b1#2
-vless://7090e971-0bac-442c-9708-6ab12405ec90@95.216.142.172:40446?mode=gun&security=reality&encryption=none&pbk=rG1tB6QzJdkfsnIo2uNdy7LwVYxh0O4-hO7QzcH6AG0&fp=firefox&spx=%2FSeyyedmt&type=grpc&serviceName=&sni=eset.com&sid=91a5a29c#3
+vless://ItsLegendaryking@49.13.81.29:443?mode=gun&security=reality&encryption=none&pbk=iGeX-ZxZyVTwA10OgXHmkT5C0ZqsRUDcDVxReLlD9GQ&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=7e50cb6a#Reality+1
+vless://ItsLegendaryking@45.95.232.9:443?mode=gun&security=reality&encryption=none&pbk=1qzhLZS1BKkQp0gQ1IivxroCcCK4qEkSWSPahzPBtDs&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=mihanyas.ir&sid=a71daefc#Reality+2
+vless://ItsLegendaryking@45.87.153.68:443?mode=gun&security=reality&encryption=none&pbk=VILSw-HYkuhG0o7Z29SZcK_iYEefGn4E7q3rK0cvoRk&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=www.speedtest.net&sid=f84f03fa#Reality+3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRzhoU2FUSHM4dWhCc3hz@series-a2-me.samanehha.co:443#Bahrain
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnNzRsM3Z2MnFSSkhqbmtJ@series-a2-me.samanehha.co:443#Bahrain+1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#London
