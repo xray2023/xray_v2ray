@@ -3,6 +3,8 @@ vless://3c8cccdc-534e-4b10-a65e-bda845c1ddbb@amvpnnetherlands.boxgs.online:26680
 vless://6ef50628-6f56-45e6-b5e5-9d882da31134@5.42.73.58:59298?mode=gun&security=reality&encryption=none&pbk=TXzuVYrh_pgNHnAlnNEObOa3ZVcurWq4OyXWbNXs0UY&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=9ed7c934#3
 vless://a709b5bf-97ac-4ea1-92e5-010fbdd276a6@89.208.103.101:41554?mode=gun&security=reality&encryption=none&pbk=lq0rLZuBgy02k2_U5fU1gMQ0-N1xBIYXzWA7o2xUbVc&fp=firefox&spx=%2F&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=cdn.discordapp.com&sid=cbf87e39#4
 vless://a709b5bf-97ac-4ea1-92e5-010fbdd276a6@89.208.103.101:41554?mode=gun&security=reality&encryption=none&pbk=lq0rLZuBgy02k2_U5fU1gMQ0-N1xBIYXzWA7o2xUbVc&fp=firefox&spx=%2F&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=cdn.discordapp.com&sid=cbf87e39#5
+vless://ff44613d-8dc0-4e5d-8ffb-7710b561d2c1@zula.ir:2096?mode=gun&security=tls&encryption=none&alpn=h2&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=nasaspeed.boxgs.online#6
+vless://a709b5bf-97ac-4ea1-92e5-010fbdd276a6@89.208.103.101:41554?mode=gun&security=reality&encryption=none&pbk=lq0rLZuBgy02k2_U5fU1gMQ0-N1xBIYXzWA7o2xUbVc&fp=firefox&spx=%2F&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=cdn.discordapp.com&sid=cbf87e39#7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#London+1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WFFMZWpmNGlrQ1dHTXRV@series-a2-me.samanehha.co:443#Bahrain
