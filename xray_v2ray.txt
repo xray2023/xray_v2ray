@@ -1,3 +1,8 @@
+vless://3d82ea33-b34b-4177-b5ad-56acf4ada6d0@amvpnitaly.boxgs.online:33038?mode=gun&security=reality&encryption=none&pbk=svERmC9YzNZn-icgKY9P2VRjcYLevgqqevSEOWbJsgg&fp=firefox&spx=%2F&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=gsmarena.com&sid=feb5f546#0
+vless://23a513cd-3f44-45b6-8a78-8068e2562489@5.42.73.58:26374?mode=gun&security=reality&encryption=none&pbk=x_b_TvXOzUx-YsLjjfTNhjtK1TVQWJV2L1lvO7qrKHM&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=gsmarena.com&sid=64b74bf6#00
+vless://f7e5f410-cb9f-4a4d-9ca9-c1252e0f623f@nasaspeed.boxgs.online:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=nasaspeed.boxgs.online#000
+vless://6c60a2f8-0bc4-4a53-9828-d6cd092f7e98@amvpntls.boxgs.online:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN,@v2rayN_OPENAVPN&sni=amvpntls.boxgs.online#0000
+vless://ItsLegendaryking@77.91.70.43:443?mode=gun&security=reality&encryption=none&pbk=5Td6tJQ-cP9cz_d9Wf8BVcSGbiht8v3pxrgCw2YG_Qs&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=s4.mega.io&sid=2017174e#00000
 vless://64f9ebd4-b89a-40e4-8f97-231adc23bd08@62.3.12.155:443?security=none&encryption=none&host=internet.life.com.by&headerType=http&type=tcp#1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptd29vQ3psYlZVSUQ1Yk80@series-a2-me.samanehha.co:443#3
