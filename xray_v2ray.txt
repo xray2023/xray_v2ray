@@ -1,1 +1,2 @@
+vless://746a2305-3fa1-4768-bc88-ca4bfec0af29@193.233.232.255:39363?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%B9
 vless://ItsLegendaryking@78.47.225.6:443?mode=gun&security=reality&encryption=none&pbk=V9EHpG-ppIriKKR336VgjCQExjT1u0RNk_UPBH2XUG8&fp=chrome&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&sni=staging.philharmonie-konstanz.de&sid=9b0dbdcb#Reality+1
