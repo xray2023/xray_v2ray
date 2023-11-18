@@ -1,2 +1,3 @@
 vless://d0e017b2-b0e5-4e78-bc65-d0d062da84ed@193.233.232.255:52204?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#193.233.232.255
 vless://51ff3b4a-09a4-483b-a67a-2fc8d9e2e444@moonrider.uk:19028?security=reality&encryption=none&pbk=YII5ZFwLTAsbEIfMOibeLtlX_HCOxYUihrrxpsFctDI&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=8facdde1#moonrider.uk
+vless://ed446496-eb0b-4f41-b407-0acc3bc3c5bf@168.119.160.195:11243?mode=gun&security=reality&encryption=none&pbk=n-Iqm9fwlpcLzTEq4WrXsRjI3lLGTOeTJPbo7rEPOHI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bing.com&sid=2a39ac4c#168.119.160.195
