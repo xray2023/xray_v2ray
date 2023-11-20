@@ -1,9 +1,6 @@
 vless://6181d8a4-1838-4d5b-b4a8-5becab613f96@193.233.232.255:443?mode=gun&security=reality&encryption=none&pbk=g4FlFPNDJ4DF3KaHoKUUmkcMbBRZ1FM29rGyptuH_XQ&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=ghbi.ir&sid=211be3c4#193.233.232.255
-vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@190.93.246.241:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ac7.zxv.biz.id&type=ws#190.93.246.241
 vless://ed446496-eb0b-4f41-b407-0acc3bc3c5bf@168.119.160.195:11243?mode=gun&security=reality&encryption=none&pbk=n-Iqm9fwlpcLzTEq4WrXsRjI3lLGTOeTJPbo7rEPOHI&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-Telegram:@SeyyedMT-&sni=bing.com&sid=2a39ac4c#168.119.160.195
 vless://cd3028df-8c0b-458f-b416-2ebecc681b54@45.65.113.118:443?security=reality&encryption=none&alpn=http/1.1&pbk=oCCaw6JnJMOBToii2NxCHjaedT9sxRaJd1XdrdeNPAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=26d6e69490974829#45.65.113.118
-vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@198.41.202.5:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ac7.zxv.biz.id&type=ws#198.41.202.5
-vless://aef3b456-2f83-4ca6-a66c-32bd2f534b68@2-tehron98.ddns.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ac7.zxv.biz.id&type=ws#35773322
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.133.117:80?path=%2Fgraphql&security=none&encryption=none&host=vr4RlSu.kallepache.store&type=ws#172.67.133.117
 vless://c696a8b4-75fd-42b0-c2ff-a9a0e31208cc@165.232.80.190:8443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=ams.yourdisha.in#165.232.80.190
 vless://1ce1c552-5863-43cf-8814-bf03e3d81517@193.233.232.255:57923?security=none&encryption=none&host=ghbi.ir&headerType=http&type=tcp#193.233.232.255
