@@ -1,5 +1,5 @@
 vless://ba3b1bb0-466e-4d7d-92d7-f2eeb4c73e76@172.67.218.115:2086?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de2.vlessx.xyz&type=ws#1
-vless://a4ef9692-9e76-4fe9-8380-a1d36077060c@141.193.213.57:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sobhan1.pocow16181.workers.dev&type=ws#2
+vless://8ed31e1e-ba29-47bb-a212-3ed1e461a65c@kamyarservers.ddns.net:443?mode=gun&security=reality&encryption=none&pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&fp=firefox&spx=%2F&type=grpc&serviceName=@configMs&sni=mihanyas.ir&sid=0960546b#2
 vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#3
 vless://00c8cf61-b714-40fa-8968-076becd5cc9b@141.95.75.210:443?security=tls&encryption=none&headerType=none&type=tcp&sni=automations.footballlovernews.com#4
 vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.64.101.98:80?path=%2Fgraphql&security=none&encryption=none&host=vr4RlSu.kallepache.store&type=ws#5
@@ -16,4 +16,3 @@ vless://19cf8872-7f7d-42d0-a7be-73f8654265ba@inconcinnity.norwaylovers.com:443?s
 vless://e926558e-f6de-40d5-cee6-178e72f5586b@104.27.77.90:80?path=%2F&security=none&encryption=none&host=neT.MiCrosOfTS.doWnLOAd&type=ws#16
 vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?security=reality&encryption=none&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&headerType=none&fp=chrome&type=tcp&sni=lit.dev&sid=9e20a9863c3c8d7d#17
 vless://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&sni=fast1.alpha5.top#18
-vless://836e7938-6178-4db8-8d4a-09c63b9d88d2@65.109.197.193:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=gsmarena.com&sid=a786cf49#19
