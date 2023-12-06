@@ -1,14 +1,12 @@
-vless://ba3b1bb0-466e-4d7d-92d7-f2eeb4c73e76@172.67.218.115:2086?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de2.vlessx.xyz&type=ws#1
-vless://3ae9aac6-0208-4557-80d7-6426a1013e65@65.109.184.213:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=gsmarena.com&sid=a786cf49#2
-vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#3
-vless://00c8cf61-b714-40fa-8968-076becd5cc9b@141.95.75.210:443?security=tls&encryption=none&headerType=none&type=tcp&sni=automations.footballlovernews.com#4
-vless://f0914ff7-bda1-4c94-b580-704bf14514c1@65.109.211.236:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=ghbi.ir&sid=a786cf49#5
-vless://0d0fe1ed-9c83-4e4e-8c56-1b314c1249bd@65.109.197.193:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=gsmarena.com&sid=a786cf49#6
-vless://5c487217-b330-4c76-ab16-da95901c0bbf@65.109.212.63:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=ghbi.ir&sid=a786cf49#7
-vless://b624baba-d779-4abc-8e41-c8fd2d8a33f0@65.109.199.199:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=ghbi.ir&sid=a786cf49#8
-vless://2eb71c1e-3caf-4f91-9fe6-35ba81590280@65.109.200.85:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=ghbi.ir&sid=a786cf49#9
-vless://7cd2d3bb-b7bf-4dd1-851e-7f7b6eef2248@65.109.195.124:443?mode=gun&security=reality&encryption=none&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&fp=chrome&spx=%2F&type=grpc&serviceName=@Everyday_VPN&sni=ghbi.ir&sid=a786cf49#10
-vmess://eyJhZGQiOiI1LjE2MS4yMjIuNjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWMwNTBhODYtZDYxMi00OGYxLWVjMzItZTU3M2RmMDhhMWI3IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzM4OSIsInBzIjoiMTEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@tu.sigma-hoster.store:555?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tuyacn.com#13
-vless://19cf8872-7f7d-42d0-a7be-73f8654265ba@inconcinnity.norwaylovers.com:443?security=tls&encryption=none&headerType=none&type=tcp#12
-vless://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&sni=fast1.alpha5.top#14
+vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#
+vless://0a1d78ed-b293-4e70-a1ca-fefab75167fa@172.67.132.41:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl42.vlessx.us&type=ws#
+vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%40m4dvpn%2F%3Fed%3D2048&security=none&encryption=none&host=nl54.vlessx.us&type=ws#
+vless://79a0b2a8-f5f7-43bc-a6e3-2b8ff3f526b2@172.67.218.115:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sg18.vlessx.xyz&type=ws#
+vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl21.vlessx.us&type=ws#
+vless://ce4b8902-4abf-4dbb-b145-c3b8ad921bda@172.67.132.41:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl49.vlessx.us&type=ws#
+vless://0e989a0e-264b-4bbb-baa4-31603314531f@172.67.132.41:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl48.vlessx.us&fp=randomized&type=ws&sni=nl48.vlessx.us#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.56.140:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@tu.sigma-hoster.store:555?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tuyacn.com#
+vless://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&sni=fast1.alpha5.top#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.95.232:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#
