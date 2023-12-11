@@ -1,9 +1,8 @@
-vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl21.vlessx.us&type=ws#
-vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#
-vless://3f2d2ba4-7f52-4ded-8580-890461bc0005@tu.sigma-hoster.store:555?security=reality&encryption=none&pbk=9wfsGBdHj4v57u3U-YDUrqyHcBzZP_43xYXw0aT_UHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tuyacn.com#
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.95.232:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
 vless://ba3b1bb0-466e-4d7d-92d7-f2eeb4c73e76@172.67.218.115:2086?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de2.vlessx.xyz&type=ws#
 vless://ce4b8902-4abf-4dbb-b145-c3b8ad921bda@172.67.132.41:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl49.vlessx.us&type=ws#
-vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl21.vlessx.us&type=ws#
-vless://0e989a0e-264b-4bbb-baa4-31603314531f@172.67.132.41:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl48.vlessx.us&fp=randomized&type=ws&sni=nl48.vlessx.us#
+vless://d096830d-b1b4-4319-8b25-2e3df19e6e3b@172.64.138.167:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=dk1.vlessx.xyz&type=ws#
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#
+vless://0e989a0e-264b-4bbb-baa4-31603314531f@172.67.132.41:2083?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=nl48.vlessx.us&fp=randomized&type=ws&sni=nl48.vlessx.us#
+vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl21.vlessx.us&type=ws#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.95.232:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://0333b495-1f8b-4d75-be2e-11c023bf78e5@172.67.132.209:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nl21.vlessx.us&type=ws#
