@@ -1,7 +1,7 @@
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.27.91.235:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#
 ss://YWVzLTI1Ni1nY206VUVaTEtqMjZ0eA==@38.54.104.17:18808#
-vless://43843c12-8ab6-487a-8b4a-fb6cb983dc50@91.107.208.93:56068?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOamsyTnpjeQ==@5.181.21.19:8388#
-vmess://eyJhZGQiOiI1LjE2MS4yMzIuMTE0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhIiwiaWQiOiJlMGFkNmYxMC1lY2M3LTQzOTgtYTBjMi1hMDNkM2Y4OWYyNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1LjE2MS44Ni4xMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEiLCJpZCI6IjA1N2E3OTM5LTc2OGQtNGVmNy05YzEyLTAwM2FmNGY3ZTJhNyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&fp=chrome&type=ws&sni=sdgf.bdfstt.sbs#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.233.226:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@172.66.209.117:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=current.ircp.online&fp=chrome&type=ws&sni=current.ircp.online#
