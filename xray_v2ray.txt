@@ -1,8 +1,5 @@
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#
 vless://dcd1499f-0220-4ac0-8c49-d1a0110367c8@172.232.146.32:38315?mode=gun&security=none&encryption=none&type=grpc&serviceName=#
 vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
-vless://01007737-b549-4a1a-9371-de2b320c263f@162.159.137.232:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=fnd.SvnNvs.Online#
-vless://4d7f5565-b34a-4265-ee2e-38a3c1763b4a@172.67.215.121:443?mode=gun&security=tls&encryption=none&fp=random&type=grpc&serviceName=&sni=adolf.globalonlInup.shop#
-vless://01007737-b549-4a1a-9371-de2b320c263f@162.159.138.232:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=fnd.SvnNvs.Online#
 vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&fp=chrome&type=ws&sni=sdgf.bdfstt.sbs#
-vless://01007737-b549-4a1a-9371-de2b320c263f@104.21.65.133:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=fnd.SvnNvs.Online#
+vless://e28bb3f8-e64a-4419-9496-33c46220354b@172.67.194.57:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=sdgf.bdfstt.sbs&type=ws&sni=sdgf.bdfstt.sbs#
+vmess://eyJhZGQiOiIxNjIuMTU5LjE5Mi4yNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNvd29jaHRtdHJrZXJzLnR1cmJvMDIxLmxpbmsiLCJpZCI6IjY3M2JhMzc4LTg0MGYtNDkyOC04MWYyLTIwMzE0OGQwNzM1MCIsIm5ldCI6IndzIiwicGF0aCI6Ii82NzNiYTM3OC04NDBmLTQ5MjgtODFmMi0yMDMxNDhkMDczNTAiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiY293b2NodG10cmtlcnMudHVyYm8wMjEubGluayIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
