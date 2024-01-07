@@ -1,6 +1,4 @@
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@198.41.202.5:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&fp=chrome&type=ws&sni=3k.pureboy.eu.org#
-vless://8d6d02e4-9aea-49db-bf55-8738e04e9c78@81.12.27.2:8443?path=%2F&security=none&encryption=none&type=ws#
 vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.16.178.157:443?path=%2Ffflsws&security=tls&encryption=none&host=lmn37.sbs&type=ws&sni=lmn37.sbs#
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.36:443?path=%2Ffflsws&security=tls&encryption=none&host=lmn39.sbs&type=ws&sni=lmn39.sbs#
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@[2606:4700:3030::6815:5086]:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#
