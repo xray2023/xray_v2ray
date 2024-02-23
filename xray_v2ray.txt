@@ -7,6 +7,4 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTY4LjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@cxc--join.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&type=ws&sni=always-online1.lp-airdrop.top#
 vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.64.80.150:443?path=%2F%3Fed&security=tls&encryption=none&host=always-online1.lp-airdrop.top&fp=randomized&type=ws&sni=always-online1.lp-airdrop.top#
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#
-vless://d8ece0ef-f441-4ed0-84ae-010267854870@205.233.181.195:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6, @LIGHTNING6&sni=liV2rayh.xn--mgbg0fka44dhgc.com#RighTel+2
-vless://VPNCUSTOMIZE@205.233.181.195:80?path=%2F%40V2rayCUSTOMIZE___%40CUSTOMIZEV2ray&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#RighTel+1
-vless://ID---TMCUSTOMIZE@205.233.181.195:80?path=%2F%40V2rayCUSTOMIZE___%40CUSTOMIZEV2ray&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#RighTel
+vless://VPNCUSTOMIZE@205.233.181.217:80?path=%2F%40V2rayCUSTOMIZE___%40CUSTOMIZEV2ray&security=none&encryption=none&host=V2rayCUSTOMIZE.xn--4oq36ed28d.ORG.&type=ws#RighTel
