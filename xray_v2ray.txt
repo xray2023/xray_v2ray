@@ -1,11 +1,9 @@
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#1
+ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+speed
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#2
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#3
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#4
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2087?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#5
 vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#6
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGZ2x0YnBtNmNEOWVIU0ZoS0k2bWFD@45.89.52.197:32058#turkey
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG9HV3lqd0RWWklsMVdNdUh0eFNp@139.28.220.18:5700#Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dlBORzcwajFacWZFRzVlZTZhUUdX@94.131.106.6:43743#Netherlands
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQmtYV0dKNUlBSUpwbVVjb3FPQW1R@185.216.13.15:8239#Netherlands+1
