@@ -1,9 +1,6 @@
-ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#Irancell+%F0%9F%87%AC%F0%9F%87%A7+speed
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:8443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#2
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2053?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#3
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2096?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#4
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2087?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#5
-vless://8721355e-96d5-4bb9-a99b-b6119d6b1cd4@www.zula.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV&fp=chrome&type=ws&sni=u6zGHn5zYtaReT4S838q76kQGd9mN61UfLu53560xv8NMU68Gd7Q25y3pX.pAgEs.DEV#6
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVWG9HV3lqd0RWWklsMVdNdUh0eFNp@139.28.220.18:5700#Finland
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#104.21.28.62
+ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#UK%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNnlBRTc2eDBSVXkyaGZVM2RWcXNR@5.44.42.60:1080#United+Arab+Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dlBORzcwajFacWZFRzVlZTZhUUdX@94.131.106.6:43743#Netherlands
