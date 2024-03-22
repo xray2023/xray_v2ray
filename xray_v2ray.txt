@@ -1,6 +1,7 @@
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#
-vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@104.21.28.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#104.21.28.62
-ss://YWVzLTEyOC1nY206dGVsOkBaRURNT0RFT04=@209.38.160.45:25365#UK%F0%9F%87%AC%F0%9F%87%A7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQL3ArbkxsT0t3RUo1L3ZHOVBkYTJSSHNkcC9zeEkvRGRnY01TZGxKSE5JPQ==@49.12.193.219:7010#Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMNnlBRTc2eDBSVXkyaGZVM2RWcXNR@5.44.42.60:1080#United+Arab+Emirates
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dlBORzcwajFacWZFRzVlZTZhUUdX@94.131.106.6:43743#Netherlands
+vless://seyyed5@zula.ir:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt-@seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog.#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@www.tegzitp.net:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=edge.020770.xyz&fp=chrome&type=ws&sni=edge.020770.xyz#
+vless://2517c16a-8099-42a7-aed3-069c56399b61@217.196.107.14:443?path=%2F&security=none&encryption=none&type=ws#
+vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.135.79:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.64.111.9:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz#
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@8-2bw.pages.dev:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=8-2bw.pages.dev&fp=random&type=ws&sni=8-2bw.pages.dev#
