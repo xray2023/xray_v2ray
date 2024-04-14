@@ -1,16 +1,227 @@
-vless://c8aa3dce-77b8-4cca-b313-89ce5c015137@104.18.202.232:80?path=%2Fxmrdark&security=none&encryption=none&host=369.xn--cr8haa.V2ray.xn--1ug4145pija8k.freeV2ray.onflashdrive.app.&type=ws#
-vless://d480372f-6596-4177-ae85-28af07adf1cb@172.67.206.221:2053?path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=selinc--5--selinc--5--selinc.muosqv.workers.dev&type=ws&sni=selinc--5--selinc--5--selinc.muosqv.workers.dev#
-vless://5b2bad9a-139f-4985-891f-00956573c448@172.64.199.37:443?path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=hello-world-bitter-silence-09ff.conig57303.workers.dev&fp=chrome&type=ws&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev#
-vless://f4cec6cc-6177-423c-90f8-2ad9f0dd996b@ctwct.arvancode.eu.org:8443?path=%2FbShq2qgG8GnX8zqm%2F%3Fed%3D2048&security=tls&encryption=none&host=vpnct.arvancode.eu.Org&fp=chrome&type=ws&sni=vpnct.arvancode.eu.Org#
-vless://5b2bad9a-139f-4985-891f-00956573c448@skk.moe:443?path=%2Fvless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=hello-world-bitter-silence-09ff.conig57303.workers.dev&fp=chrome&type=ws&sni=hello-world-bitter-silence-09ff.conig57303.workers.dev#
-vless://d672ec4f-afba-4f61-af09-eec872f97e99@188.114.98.220:443?path=%2Ffreecodes&security=tls&encryption=none&host=test57.pages.dev&type=ws&sni=test57.pages.dev#
-vmess://eyJhZGQiOiJuZWxseS5ob21lcyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmVsbHkuaG9tZXMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6Im5lbGx5LmhvbWVzIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJvYmRpaS5jZmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI4OTU1Lm91dGxpbmUtdnBuLmNsb3VkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJsaW5kZTA2LmluZGlhdmlkZW8uc2JzIiwiaWQiOiJlZGJiMTA1OS0xNjMzLTQyNzEtYjY2ZS1lZDRmYmE0N2ExYmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6ImxpbmRlMDYuaW5kaWF2aWRlby5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiI1MDMub3V0bGluZS12cG4uY2xvdWQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZpcDIzMjMuY2ZkIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2aXAyMzIzLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://48a5b05b-cf59-4a70-87fb-e685780f1991@185.251.38.172:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=by.jarviskit.com#
-vless://a6e0a092-7fe6-4ff2-c409-e4d2ed3aa313@45.252.183.153:22367?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#
-vmess://eyJhZGQiOiJtZXJvaXkuaWN1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZXJvaXkuaWN1IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtZXJvaXkuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNzIuNjcuMTY4LjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiJtYXJpZW4ubW90b3JjeWNsZXMiLCJpZCI6IjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6Im1hcmllbi5tb3RvcmN5Y2xlcyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://392a24d2-b87c-498e-a97a-51f3027f05c6@tomat.minusober.com:443?path=%2Ftomat&security=tls&encryption=none&fp=chrome&type=ws&sni=tomat.minusober.com#
-vmess://eyJhZGQiOiJtZXJvaXkuaWN1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtZXJvaXkuaWN1IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiJtZXJvaXkuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://8875b325-2a38-4f46-a343-f95d906e251f@170.114.46.89:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog#
+vless://8875b325-2a38-4f46-a343-f95d906e251f@[2a01:4f8:c17:45c6::1]:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2FTelegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt-Telegram%3A%40seyyedmt&sni=seyyedmtksksksksksksksksksksksksksksks.seyyedmt.blog#
+vmess://eyJhZGQiOiJub3ZpYS5tYWtldXAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5vdmlhLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoibm92aWEubWFrZXVwIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://yytugfffreees@0000:443?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%DA%86%D9%87%E2%80%8C%D9%87%D8%A7+%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86+%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C+%D8%B1%D8%A7+%D8%A7%D8%B2+%DA%AF%D9%88%DA%AF%D9%84+%D8%A7%D8%B3%D8%AA%D9%88%D8%B1%28%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87+play%29+%D9%86%D8%B5%D8%A8+%DA%A9%D9%86%DB%8C%D8%AF
+vless://yytugfffreees@0000:443?security=none&encryption=none&headerType=none&type=tcp#%D8%A8%D8%B9%D8%AF+%D9%84%DB%8C%D9%86%DA%A9+%D8%B2%DB%8C%D8%B1+%D8%B1%D8%A7+%DA%A9%D9%BE%DB%8C+%DA%A9%D9%86%DB%8C%D8%AF%28%D8%B1%D9%88%DB%8C+%D9%85%D8%AF%D8%A7%D8%AF+%D8%B6%D8%B1%D8%A8%D9%87+%D8%A8%D8%B2%D9%86%DB%8C%D8%AF%29%D9%88+%D8%AF%D8%B1+%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C+%D9%88%D8%A7%D8%B1%D8%AF+%DA%A9%D9%86%DB%8C%D8%AF
+vless://yytugfffreees@0000:443?security=none&encryption=none&headerType=none&type=tcp#warp%3A%2F%2F162.159.192.169%3A1018%2F%3Fifp%3D1-5%23warp-ir%26%26detour%3Dwarp%3A%2F%2F162.159.192.169%3A1018%2F%3Fifp%3D1-5%23warp-main
+{
+  "log": {
+    "level": "warn",
+    "output": "box.log",
+    "timestamp": true
+  },
+  "dns": {
+    "servers": [
+      {
+        "tag": "dns-remote",
+        "address": "udp://1.1.1.1",
+        "address_resolver": "dns-direct"
+      },
+      {
+        "tag": "dns-trick-direct",
+        "address": "https://sky.rethinkdns.com/",
+        "detour": "direct-fragment"
+      },
+      {
+        "tag": "dns-direct",
+        "address": "1.1.1.1",
+        "address_resolver": "dns-local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-local",
+        "address": "local",
+        "detour": "direct"
+      },
+      {
+        "tag": "dns-block",
+        "address": "rcode://success"
+      }
+    ],
+    "rules": [
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "server": "dns-direct"
+      },
+      {
+        "domain": "cp.cloudflare.com",
+        "server": "dns-remote",
+        "rewrite_ttl": 3000
+      }
+    ],
+    "final": "dns-remote",
+    "static_ips": {
+      "sky.rethinkdns.com": [
+        "2a06:98c1:3121::3",
+        "2a06:98c1:3120::3",
+        "188.114.98.0",
+        "188.114.99.0",
+        "104.18.202.232",
+        "104.18.203.232",
+        "2606:4700:e6::ac40:c21d",
+        "2606:4700:e6::ac40:c31d",
+        "172.64.194.29",
+        "172.64.195.29"
+      ]
+    },
+    "independent_cache": true
+  },
+  "inbounds": [
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/28",
+      "auto_route": true,
+      "strict_route": true,
+      "endpoint_independent_nat": true,
+      "stack": "mixed",
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": 2334,
+      "sniff": true,
+      "sniff_override_destination": true
+    },
+    {
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "1.1.1.1",
+      "override_port": 53
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "selector",
+      "tag": "select",
+      "outbounds": [
+        "auto",
+        "warp-ir § 0",
+        "warp-main § 1"
+      ],
+      "default": "auto"
+    },
+    {
+      "type": "urltest",
+      "tag": "auto",
+      "outbounds": [
+        "warp-ir § 0",
+        "warp-main § 1"
+      ],
+      "url": "http://cp.cloudflare.com/",
+      "interval": "10m0s",
+      "idle_timeout": "1h40m0s"
+    },
+    {
+      "type": "wireguard",
+      "tag": "warp-ir § 0",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:8b71:dbdf:987a:b90c:63da/128"
+      ],
+      "private_key": "YGUlTc2pSjgC6ijrkORWG1XS+dDOuH/pT5N24msN8Xs=",
+      "server": "162.159.192.169",
+      "server_port": 1018,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1280,
+      "fake_packets": "1-5",
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
+    },
+    {
+      "type": "wireguard",
+      "tag": "warp-main § 1",
+      "detour": "warp-ir § 0",
+      "local_address": [
+        "172.16.0.2/24",
+        "2606:4700:110:89c1:6b7e:81de:8f92:c081/128"
+      ],
+      "private_key": "uFRFoXqVEjuyLSHFRwRT+mWquuGq+7WD1tW0uhtJ53A=",
+      "server": "162.159.192.169",
+      "server_port": 1018,
+      "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+      "reserved": "AAAA",
+      "mtu": 1120,
+      "fake_packets_size": "40-100",
+      "fake_packets_delay": "20-250"
+    },
+    {
+      "type": "dns",
+      "tag": "dns-out"
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "direct",
+      "tag": "direct-fragment",
+      "tls_fragment": {
+        "enabled": true,
+        "size": "1-500",
+        "sleep": "0-500"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "bypass"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "geoip": {
+      "path": "geo-assets/sagernet-sing-geoip-geoip.db"
+    },
+    "geosite": {
+      "path": "geo-assets/sagernet-sing-geosite-geosite.db"
+    },
+    "rules": [
+      {
+        "inbound": "dns-in",
+        "outbound": "dns-out"
+      },
+      {
+        "port": 53,
+        "outbound": "dns-out"
+      },
+      {
+        "clash_mode": "Direct",
+        "outbound": "direct"
+      },
+      {
+        "clash_mode": "Global",
+        "outbound": "select"
+      },
+      {
+        "domain_suffix": ".ir",
+        "geosite": "ir",
+        "geoip": "ir",
+        "outbound": "bypass"
+      }
+    ],
+    "final": "select",
+    "auto_detect_interface": true,
+    "override_android_vpn": true
+  },
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "clash.db"
+    },
+    "clash_api": {
+      "external_controller": "127.0.0.1:6756",
+      "secret": "o9TEBPV2yE7SyLB8"
+    }
+  }
+}
