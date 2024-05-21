@@ -1,5 +1,5 @@
-vless://Parsashonam-75@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci0
-vless://Parsashonam-75@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci00
+vless://Parsashonam-76@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci0
+vless://Parsashonam-76@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci00
 vless://43ca3adc-7014-4179-8f1a-e41f57a55b94@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci1
 vless://5e39d936-3a55-46fe-81f2-8bd8cd5ab8b7@www.visa.com:8880?path=%2FParsashonam&security=none&encryption=none&host=randomname.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci2
 vless://d52befa3-0988-4610-bb9e-0a7b3930f651@www.visa.com:8080?path=%2FParsashonam&security=none&encryption=none&host=vip-bot2.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci3
