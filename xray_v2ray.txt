@@ -1,9 +1,6 @@
-vless://43ca3adc-7014-4179-8f1a-e41f57a55b94@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci1
-vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@www.speedtest.net:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci2
-vless://d52befa3-0988-4610-bb9e-0a7b3930f651@www.visa.com:8080?path=%2FParsashonam&security=none&encryption=none&host=vip-bot2.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci3
-vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci4
-vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci5
-vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci6
-vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@www.zula.ir:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci7
+vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@185.146.173.58:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci1
+vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@185.146.173.94:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci2
+vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@www.visa.com:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci3
+vless://ee6289d4-9d27-4893-9793-0ad96f09c22a@www.zula.ir:8080?path=%2F&security=none&encryption=none&host=Parsashonam.%E6%88%91%E4%BB%AC%E7%B4%AF%E4%BA%86.tech.&type=ws#mci4
 vless://yytugfffreees@0000:443?security=none&encryption=none&headerType=none&type=tcp#%D9%84%DB%8C%D9%86%DA%A9+%D9%BE%D8%A7%DB%8C%DB%8C%D9%86+31+%D8%A7%D8%B1%D8%AF%DB%8C%D8%A8%D9%87%D8%B4%D8%AA+%D8%A8%D8%B1%D9%88%D8%B2+%D8%B4%D8%AF
 vless://irancell@0000:443?security=none&encryption=none&headerType=none&type=tcp#warp%3A%2F%2F188.114.97.55%3A8886%2F%3Fifp%3D1-5%23iran%26%26detour%3Dwarp%3A%2F%2F188.114.97.55%3A8886%2F%3Fifp%3D1-5%23Germany%0Awarp%3A%2F%2F162.159.195.81%3A943%2F%3Fifp%3D1-5%23iran%26%26detour%3Dwarp%3A%2F%2F162.159.195.81%3A943%2F%3Fifp%3D1-5%23Germany%0Awarp%3A%2F%2F162.159.192.234%3A1074%2F%3Fifp%3D1-5%23iran%26%26detour%3Dwarp%3A%2F%2F162.159.192.234%3A1074%2F%3Fifp%3D1-5%23Germany
